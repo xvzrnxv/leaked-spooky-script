@@ -1,9 +1,0 @@
-local ESP = game.Players
-local ILIL,LILIL,ILILIL,LILIL
-if ILILIL == true then 
-
-else 
-game:GetService("RunService").RenderStepped:Connect(function()
-   game:GetService("GuiService"):ToggleFullscreen()
-end)
-end
